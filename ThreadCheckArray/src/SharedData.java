@@ -9,7 +9,7 @@ public class SharedData
 	private boolean [] winArray;
 	private boolean flag;
 	private final int b;
-	
+	private int y;
 	/**
 	 * @param array
 	 * @param b
