@@ -4,7 +4,7 @@ public class SharedData
 	private boolean [] winArray;
 	private boolean flag;
 	private final int b;
-	
+	private int x=5;
 	public SharedData(int[] array, int b) {
 		
 		this.array = array;
